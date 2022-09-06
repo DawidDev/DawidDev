@@ -5,7 +5,8 @@ I am currently a freelancer. I create modern, responsive websites based on popul
 #### What I know:
 * JavaScript and a few plugins, libraries
 * React
-* HTML, CSS, SCSS, Bootstrap, MUI
+* TypeScript
+* HTML, CSS, SASS/SCSS, Bootstrap, MUI
 * RWD (responsive web design)
 * Adobe XD (for create UI/UX)
 * MySQL
