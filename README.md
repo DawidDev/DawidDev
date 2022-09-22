@@ -19,7 +19,7 @@ I am currently a freelancer. I create modern, responsive websites based on popul
 
 #### My portfolio projects:
 *  [Weather app](https://dawiddev.github.io/weather-app/)
-*  [Money - exchange rates]https://dawiddev.github.io/money-exchange-app/)
+*  [Money - exchange rates](https://dawiddev.github.io/money-exchange-app/)
 *  [Vaian - movies library](https://dawiddev.github.io/vaian/)
 *  [Camerman - personal page](https://dawiddev.github.io/camerman/)
 *  [Time app - calculate time](https://dawiddev.github.io/time_app/)
