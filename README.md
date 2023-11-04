@@ -5,17 +5,19 @@ I am currently a freelancer. I create modern, responsive websites based on popul
 #### What I know:
 * JavaScript and a few plugins, libraries
 * React
+* NextJS
+* Mobile apps: Capacitor
 * TypeScript
-* HTML, CSS, SASS/SCSS, Bootstrap, MUI
+* HTML, CSS, SASS/SCSS, Bootstrap, MUI, ChakraUI
 * RWD (responsive web design)
-* Adobe XD (for create UI/UX)
-* MySQL
+* Adobe XD, Figma
+* MySQL, MongoDB
 * AJAX, REST API
 
 > #### What I'm learning now:
 > * PHP and WordPress
 > * Still React, Redux
-> * In future I'm planing try learn React Native 
+> * In future I'm planing try learn React Native
 
 #### My portfolio projects:
 *  [Weather app](https://dawiddev.github.io/weather-app/)
